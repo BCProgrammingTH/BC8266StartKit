@@ -1,3 +1,5 @@
+//Library MCP23008 : https://github.com/RobTillaart/MCP23008
+
 #include "MCP23008.h"
 #include "Wire.h"
 
